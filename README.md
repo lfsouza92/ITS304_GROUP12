@@ -1,8 +1,8 @@
 # ITS304_GROUP12
 
-### Repositório do Grupo 12 referente à disciplina ITS304 - Contratação de Energia para Grandes Consumidores
+#### Repositório do Grupo 12 referente à disciplina ITS304 - Contratação de Energia para Grandes Consumidores
 
-## Equipe
+### Equipe
 
 * Gabriel Fraga Torrezan
 * Lucas Fabiano de Souza,

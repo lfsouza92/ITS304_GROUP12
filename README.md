@@ -2,7 +2,7 @@
 
 ## Descrição Resumida do Projeto
 
-#### Este trabalho se trata de um projeto da disciplina IT304S - "Comercialização de Energia Elétrica para Grandes Clientes" ministrada na Pós-Graduação da Faculdade de Engenharia Elétrica e de Computação (FEEC) da Universidade Estadual de Campinas (UNICAMP). Pretende-se através deste trabalho, avaliar a viabilidade econômica de migração para o mercado livre dos campus de Apucarana, Toledo e Londrina da UTFPR.
+Este trabalho se trata de um projeto da disciplina IT304S - "Comercialização de Energia Elétrica para Grandes Clientes" ministrada na Pós-Graduação da Faculdade de Engenharia Elétrica e de Computação (FEEC) da Universidade Estadual de Campinas (UNICAMP). Pretende-se através deste trabalho, avaliar a viabilidade econômica de migração para o mercado livre dos campus de Apucarana, Toledo e Londrina da UTFPR.
 
 ## Equipe
 

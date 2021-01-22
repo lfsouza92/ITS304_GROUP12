@@ -6,12 +6,12 @@ Este trabalho se trata de um projeto da disciplina IT304S - "Comercialização d
 
 ## Equipe
 
-* Gabriel Fraga Torrezan
+* Gabriel Fraga Torrezan (RA 232261)
 * Lucas Fabiano de Souza (RA 232181)
-* Weber Daas
-* Cintia Veiga Cláudio
-* Luciana Carvalho Caldeirão
-* Fábio Cassucci Gaino
+* Weber Daas (RA 261975)
+* Cintia Veiga Cláudio (RA 263666)
+* Luciana Carvalho Caldeirão (RA 261848)
+* Fábio Cassucci Gaino (RA 261831)
 
 ## Vídeo do projeto
 

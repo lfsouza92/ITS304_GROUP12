@@ -124,23 +124,23 @@ Logo, a economia total esperada agregando as 3 instalações é de R$197.439,13 
 
 Quanto aos detalhes dos produtos a serem contratados, as melhores escolhas para este perfil de consumo são apontadas em negrito a seguir:
 * Modulação:
-- Flat (maior liquidez)
-- Curva de carga (menor liquidez e perfil do consumidor é levado em conta na precificação)
-- Curva de geração (com a implementação do PLD horário o risco pela aquisição da curva de geração passa a ser maior no mercado de curto prazo)
+  - Flat (maior liquidez)
+  - Curva de carga (menor liquidez e perfil do consumidor é levado em conta na precificação)
+  - Curva de geração (com a implementação do PLD horário o risco pela aquisição da curva de geração passa a ser maior no mercado de curto prazo)
 * Sazonalização:
-- Flat (maior liquidez)
-- Até 10% (encarece pouco o preço final de contrato e permite estratégia de alocação de blocos maiores de energia em épocas do ano de maior carga ou conforme curva de preços do mercado)
-- Acima de 10% (encarecimento do preço final de contrato)
-25
+  - Flat (maior liquidez)
+  - Até 10% (encarece pouco o preço final de contrato e permite estratégia de alocação de blocos maiores de energia em épocas do ano de maior carga ou conforme curva de preços do mercado)
+  - Acima de 10% (encarecimento do preço final de contrato)
+
 * Fonte:
-- Convencional (cargas impossibilitadas de adquirirem energia dessa fonte)
-- Cogeração qualificada (cargas impossibilitadas de adquirirem energia dessa fonte)
-- Incentivada não-especial (não garante desconto no fio, porém apresenta o lastro necessário para consumidores especiais)
-- Incentivada especial (garante desconto no fio e apresenta lastro necessário para consumidor especial)
+  - Convencional (cargas impossibilitadas de adquirirem energia dessa fonte)
+  - Cogeração qualificada (cargas impossibilitadas de adquirirem energia dessa fonte)
+  - Incentivada não-especial (não garante desconto no fio, porém apresenta o lastro necessário para consumidores especiais)
+  - Incentivada especial (garante desconto no fio e apresenta lastro necessário para consumidor especial)
 * Flexibilidade:
-- Flat (maior liquidez)
-- Flex até 10% (possibilidade de redução do montante contratual mensal sem grande ônus ao preço do PPA)
-- Acima de 10%
+  - Flat (maior liquidez)
+  - Flex até 10% (possibilidade de redução do montante contratual mensal sem grande ônus ao preço do PPA)
+  - Acima de 10%
 
 
 

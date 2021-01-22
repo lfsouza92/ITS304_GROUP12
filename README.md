@@ -1,4 +1,4 @@
-# Estudo de Viabilidade Econômica de Migração para o Mercado Livre da UFTPR
+# Estudo de Viabilidade Econômica de Migração para o Mercado Livre da UTFPR
 
 ## Descrição Resumida do Projeto
 

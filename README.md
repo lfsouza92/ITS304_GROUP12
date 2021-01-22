@@ -13,7 +13,7 @@ Este trabalho se trata de um projeto da disciplina IT304S - "Comercialização d
 * Luciana Carvalho Caldeirão (RA 261848)
 * Fábio Cassucci Gaino (RA 261831)
 
-## Vídeo do projeto
+## <a href=“https://www.youtube.com/watch?v=5NoLTJQrw_o&feature=youtu.be“>Vídeo do projeto</a>
 
 ## Introdução e Motivação
 

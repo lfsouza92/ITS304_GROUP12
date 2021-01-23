@@ -128,7 +128,7 @@ A migração para o mercado livre de energia pode resultar em uma economia anual
 
 Para o campus Londrina a migração para o ACL é vantajosa se o custo da energia for de até 351,63 [R$/MWh].
 
-![fig16](https://user-images.githubusercontent.com/52420963/105511686-ede1df80-5cae-11eb-8ce5-ca5793b87329.png)
+![fig16](https://user-images.githubusercontent.com/52420963/105561417-6b304300-5cf5-11eb-907e-1e31c9be1d4c.png)
 
 Custos obtidos no mercado cativo x mercado Livre:
 * ACR: R$ 285.175,65
